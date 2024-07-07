@@ -1,1 +1,1 @@
-
+Scraped book data from the "Books to Scrape" website, including categories, prices, and descriptions. Preprocessed data by removing "£" symbols, converting prices to floats, and encoding categories numerically. Used StandardScaler for price scaling. Implemented Logistic Regression and Random Forest models, optimized with GridSearchCV for best hyperparameters. Evaluated model performance using classification reports and accuracy metrics, providing data-driven insights and ensuring robust model development.
